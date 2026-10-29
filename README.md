@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Maloja is a Swedish outdoor apparel brand offering high‑quality cycling and outdoor clothing. The company designs and sells jackets, vests, fleece, and accessories for men and women, focusing on performance, durability, and style. Maloja’s products are available through its online shop and selected retailers worldwide, and the brand emphasizes sustainable materials and ethical manufacturing practices.
+Maloja Clothing GmbH designs and sells cycling and outdoor apparel — jackets, vests, fleece, and accessories for men and women — through its own online shop and selected retailers. The company positions its range around performance, durability, and design, and markets sustainable materials and manufacturing.
 
 **Areas:** Company · Outdoor · Apparel · Cycling · Sustainable
 
@@ -90,50 +90,11 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.last.fm/login?next=/api/account/create)
+- [Website](https://www.maloja.com/)
 
 ## API Evangelist rating
 
-**Kin Score 4.0** — minimal · rubric 0.25.0 · scored 2026-10-29
-
-| Facet | Score |
-|---|---|
-| Discoverability | 53.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maloja/](https://apis.io/providers/maloja/).
+Not yet rated. See [apis.io/providers/maloja/](https://apis.io/providers/maloja/).
 
 ## How this profile is made
 
