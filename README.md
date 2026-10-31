@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Maloja Clothing GmbH designs and sells cycling and outdoor apparel — jackets, vests, fleece, and accessories for men and women — through its own online shop and selected retailers. The company positions its range around performance, durability, and design, and markets sustainable materials and manufacturing.
+Maloja is an open-source, self-hosted music scrobble database that lets users collect and analyze their listening habits. It provides charts, artist association insights, and customizable images without relying on external music services. Users can run it via Docker or Podman, configure API keys for Last.fm or Spotify, and integrate with existing scrobble clients through a standard-compliant API. The project emphasizes privacy, data ownership, and simplicity, offering manual scrobbling and proxy capabilities.
 
-**Areas:** Company · Outdoor · Apparel · Cycling · Sustainable
+**Areas:** Music · Self-hosted · Scrobble · Statistics · Open-source · Company
 
 ## Maloja on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Maloja is published on APIs.io rather than in this repos
 
 ### APIs (1)
 
-- [Maloja GraphQL API](https://apis.io/apis/maloja/maloja-graphql-api/) — Maloja provides a GraphQL endpoint for its services.
+- [Maloja API](https://apis.io/apis/maloja/maloja-api/) — Simple self-hosted music scrobble database to create personal listening statistics.
 
 ### Published properties
 
@@ -90,11 +90,58 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.maloja.com/)
+- [Website](https://www.last.fm/login?next=/api/account/create)
+- [Documentation](https://github.com/krateng/maloja#readme)
+- [Getting started](https://github.com/krateng/maloja#readme)
+- [API reference](https://github.com/krateng/maloja#readme)
+- [Support](https://github.com/krateng/maloja/issues)
+- [Blog](https://blog.last.fm/)
+- [Terms of service](https://www.last.fm/api/tos)
+- [Privacy policy](https://www.last.fm/legal/privacy)
+- [GitHub](https://github.com/krateng)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/maloja/](https://apis.io/providers/maloja/).
+**Kin Score 21.6** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 34.2 |
+
+**Agent readiness 7.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maloja/](https://apis.io/providers/maloja/).
 
 ## How this profile is made
 
